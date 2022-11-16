@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning play Chengyaojin, he is a tank
 - 💞️ I’m looking to collaborate on playing Honor of Kings
 - 📫 my qq 897798782
+-- haha
 
 <!---
 ZhuyuAndCoder/ZhuyuAndCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
